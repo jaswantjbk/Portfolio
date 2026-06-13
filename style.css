@@ -148,3 +148,10 @@ radial-gradient(circle at center,
 rgba(0,229,255,.15),
 transparent 70%);
 }
+.contact-info{
+    text-align:center;
+}
+
+.contact-info div{
+    margin:12px 0;
+}
